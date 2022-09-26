@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Computer Scientist and Frontend Engineer.
 -----------------------------------------------------------
 
-I have been learning how to code few months ago. I started with HTML, CSS and now I'm learning Javascript. I'm currently a student at AltSchoolAfrica. I'm passionate about sharing knowledge, documentation, web engineering, and others, build useful open-source projects, speak at some meetups/conferences, build technical communities...
+I have been learning how to code a year ago. I started with HTML, CSS, JAVASCRIPT, and now I'm learning React. I'm currently a student at AltSchoolAfrica. I'm passionate about sharing knowledge, documentation, web engineering, and others, build useful open-source projects, speak at some meetups/conferences, build technical communities...
 
 **Here's a quick summary about me**:
 
