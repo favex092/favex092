@@ -19,7 +19,7 @@ I have been learning how to code a year ago. I started with HTML, CSS, JAVASCRIP
 * ⚡  Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 * 💼  Job interests: Software Engineer, Front Engineer (Intern or Junior level).
 * ✉️  You can contact me at [favex2986@gmail.com](mailto:favex2986@gmail.com)
-* 📫 You can [view my resume](https://https://resume.io/r/fc2IxXxGo) and contact me by emailing favex2986@gmail.com.
+* 📫 You can [view my resume](https://resume.io/r/fc2IxXxGo) and contact me by emailing favex2986@gmail.com.
 
 <a href="https://www.twitter.com/FavourP69766003" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/FavourP69766003?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
