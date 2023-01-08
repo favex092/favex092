@@ -7,14 +7,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, Computer Scientist and Frontend Engineer.
 -----------------------------------------------------------
 
-I have been learning how to code a year ago. I started with HTML, CSS, JAVASCRIPT, and now I'm learning React. I'm currently a student at AltSchoolAfrica. I'm passionate about sharing knowledge, documentation, web engineering, and others, build useful open-source projects, speak at some meetups/conferences, build technical communities...
-
+I have been learning how to code since a year ago. I started with HTML, CSS, and JAVASCRIPT. Then  I moved to learn React and Vue. I have also garnered knowledge of Soft and technical skills. I'm currently a student at AltSchoolAfrica. I'm passionate about sharing knowledge, documentation, web engineering, and others; building useful open-source projects, speaking at some meetups/conferences, build technical communities..
 **Here's a quick summary about me**:
 
 
 * 😊  Pronouns: He/him
 * 🌍  I'm based in Lagos, Nigeria.
-* 🧠  I'm learning JavaScript and React.js
+* 🧠  I'm learning vue.js
 * 🤝  I'm open to collaborating on I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 * ⚡  Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 * 💼  Job interests: Software Engineer, Front Engineer (Intern or Junior level).
