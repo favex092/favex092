@@ -4,34 +4,31 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nwabuisi Favour Uchenna
 ===============================================================================================================================================
 
-Software Engineer, Computer Scientist and Frontend Engineer.
+Software Engineer, Computer Scientist and Frontend Engineer
 -----------------------------------------------------------
 
-I have been learning how to code since a year ago. I started with HTML, CSS, and JAVASCRIPT. Then  I moved to learn React and Vue. I have also garnered knowledge of Soft and technical skills. I'm currently a student at AltSchoolAfrica. I'm passionate about sharing knowledge, documentation, web engineering, and others; building useful open-source projects, speaking at some meetups/conferences, build technical communities..
-**Here's a quick summary about me**:
+I have been learning how to code since a year ago. I started with HTML, CSS, and JAVASCRIPT. Then I moved to learn React and Vue. I have also garnered knowledge of Soft and technical skills. I'm currently a student at AltSchoolAfrica. I'm passionate about sharing knowledge, documentation, web engineering, and others; building useful open-source projects, speaking at some meetups/conferences, build technical communities
 
-
-* 😊  Pronouns: He/him
 * 🌍  I'm based in Lagos, Nigeria.
-* 🧠  I'm learning vue.js
-* 🤝  I'm open to collaborating and I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-* ⚡  Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-* 💼  Job interests: Software Engineer, Front Engineer (Intern or Junior level).
 * ✉️  You can contact me at [favex2986@gmail.com](mailto:favex2986@gmail.com)
-* 📫 You can [view my resume](https://resume.io/r/fc2IxXxGo) and contact me by emailing favex2986@gmail.com.
+* 🧠  I'm learning Vue.js
+* 🤝  I'm open to collaborating and I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+* ⚡  I'm currently studying at AltSchoolAfrica School of Software Engineering Class of 2022
 
-<a href="https://www.twitter.com/FavourP69766003" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/favex092" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/favex092?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.twitter.com/FavourP69766003" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/FavourP69766003?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
-/></a><a href="https://www.github.com/favex092" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/favex092?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+/></a>
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
@@ -43,6 +40,7 @@ src="https://img.shields.io/github/followers/favex092?logo=github&style=for-the-
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/Favex001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://codesandbox.io/u/favex092" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/favex092" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/favex001#1633" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/profile.php?id=100084948872344" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/favex092" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/favex2022/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/favour-nwabuisi-94a31a245/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/favex092" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@favex2986" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18942432/nwabuisi-favour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/FavourP69766003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
