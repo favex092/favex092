@@ -55,14 +55,6 @@ src="https://img.shields.io/twitter/follow/FavourP69766003?logo=twitter&style=fo
 
 <a href="https://github.com/favex092" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favex092&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/favex092/NETWORK-CARRIER-CHECK-1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=favex092&repo=NETWORK-CARRIER-CHECK-1&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/favex092/Redactr-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=favex092&repo=Redactr-App&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/favex092/Captain-America-Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=favex092&repo=Captain-America-Portfolio&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/favex092/ALT-SCHOOL-AFRICA-ASSIGNMENT-1" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=favex092&repo=ALT-SCHOOL-AFRICA-ASSIGNMENT-1&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/favex2986W"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
