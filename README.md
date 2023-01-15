@@ -9,11 +9,13 @@ Software Engineer, Computer Scientist and Frontend Engineer
 
 I have been learning how to code since a year ago. I started with HTML, CSS, and JAVASCRIPT. Then I moved to learn React and Vue. I have also garnered knowledge of Soft and technical skills. I'm currently a student at AltSchoolAfrica. I'm passionate about sharing knowledge, documentation, web engineering, and others; building useful open-source projects, speaking at some meetups/conferences, build technical communities
 
+* 😄  Pronouns: He/Him
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [favex2986@gmail.com](mailto:favex2986@gmail.com)
-* 🧠  I'm learning Vue.js
+* 🧠  I'm learning Vue.js 
 * 🤝  I'm open to collaborating and I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 * ⚡  I'm currently studying at AltSchoolAfrica School of Software Engineering Class of 2022
+* 📫  You can view my [resume](https://resume.io/r/fc2IxXxGo)
 
 <a href="https://www.github.com/favex092" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/favex092?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.twitter.com/FavourP69766003" target="_blank" rel="noreferrer"><img
